@@ -26,4 +26,4 @@ console.log(quartaFeira);
 // Exiba no console o tipo de dado da váriavel quartaFeira;
 console.log( typeof quartaFeira);
 
-console.log("Fim_Codigo");
+
